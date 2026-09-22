@@ -19,7 +19,7 @@ The design integrates [microcontroller], [sensor(es)], [communication module] an
 
 | Schematic | PCB layout |
 |---|---|
-| ![Schematic](PNG_Soil-parameter-measurement-v2.0-single_2026-09-21/SCH_Single-soil-sensor_1-Main_2026-09-21.png) | ![PCB top](PCB_views/Top Assembly Drawings/Top Layer.pdf) |
+| ![Schematic](PNG_Soil-parameter-measurement-v2.0-single_2026-09-21/SCH_Single-soil-sensor_1-Main_2026-09-21.png) | ![PCB top](PNG_Soil-parameter-measurement-v2.0-single_2026-09-21/SCH_Single-soil-sensor_1-Main_2026-09-21.png) |
 
 ![3D PCB view](3D_PCB1_2026-09-21.png)
 
